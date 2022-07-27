@@ -157,7 +157,7 @@ const AdminComponents = () => {
                 <h3 className="title" style={{ color: "#FF0000"}}>
                   { process.env.pageHeader }
                 </h3>
-                <h4 className="subtitle font-light" style={{ color: "#ffff00"}}>
+                <h4 className="subtitle font-light" style={{ color: "#ff0000"}}>
                   { process.env.pageText }
                   <br />
                 </h4>
