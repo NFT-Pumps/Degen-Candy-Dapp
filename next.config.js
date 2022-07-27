@@ -4,7 +4,7 @@ module.exports = {
   reactStrictMode: false,
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
-    siteTitle: "Degen Doods NFT Minting Dapp",
+    siteTitle: "Degen Candy NFT Minting Dapp",
     contractAddress: "0x2BaB5745BB392717F1A1c6b0f1A792d4B658f196",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
