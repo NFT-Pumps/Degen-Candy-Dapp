@@ -114,9 +114,9 @@ export default function Claim() {
                   </h4>
                   <a
                     onClick={() => walletBridge1.showWeb3Modal()}
-                    className="btn btn-success m-r-20 btn-md m-t-30 " style={{ backgroundColor: "#ffff00" }}
+                    className="btn btn-success m-r-20 btn-md m-t-30 " style={{ backgroundColor: "#006ee6" }}
                   >
-                    Connect Wallet
+                    et
                   </a>
                   <Link href={process.env.mainWWW}>
                     <a className="btn btn-md m-t-30  btn-outline-light " style={{ backgroundColor: "#006ee6" }}>
@@ -171,7 +171,7 @@ export default function Claim() {
                       }
                       <a
                         onClick={() => walletBridge1.disconnect()}
-                        className="btn btn-md m-t-30 btn-outline-light " style={{ backgroundColor: "#006ee6" }}
+                        className="btn btn-md m-t-30 btn-outline-light " style={{ backgroundColor: "#ffff00" }}
 
                       >
                         Disconnect Wallet
