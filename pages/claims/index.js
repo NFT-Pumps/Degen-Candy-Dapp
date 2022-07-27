@@ -171,7 +171,7 @@ export default function Claim() {
                       }
                       <a
                         onClick={() => walletBridge1.disconnect()}
-                        className="btn btn-md m-t-30 btn-outline-light " style={{ backgroundColor: "#ffff00" }}
+                        className="btn btn-md m-t-30 btn-outline-light " style={{ backgroundColor: "#006ee6" }}
 
                       >
                         Disconnect Wallet
